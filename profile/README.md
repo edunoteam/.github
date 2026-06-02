@@ -73,8 +73,7 @@ We believe teachers should spend less time managing systems and more time inspir
 ## Technology
 
 ```text
-TypeScript • Astro • React • Node.js
-Cloud Infrastructure • AI Systems • Modern Web Technologies
+TypeScript • JavaScript • Astro • Rust • Node.js • HTML5
 ```
 
 ---
