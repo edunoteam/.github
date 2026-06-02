@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/edunoteam/.github/main/banner.png](https://github.com/edunoteam/.github/blob/main/eduno_banner_06012026.png?raw=true)" alt="Eduno Banner" width="100%">
+  <img src="https://github.com/edunoteam/.github/blob/main/eduno_banner_06012026.png" alt="Eduno Banner" width="100%">
 </p>
 
 <h1 align="center">Eduno</h1>
